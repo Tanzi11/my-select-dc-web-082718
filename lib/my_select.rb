@@ -17,5 +17,6 @@ my_select(nums) do |num|
   end 
 end 
 
+nums = [1, 2, 3, 4, 5] 
 
  
