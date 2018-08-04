@@ -31,5 +31,7 @@ def my_select(array)
   select 
   end 
   
-  
+  my_select(nums) do |num| 
+  num.even? 
+end 
  
