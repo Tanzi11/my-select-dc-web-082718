@@ -26,5 +26,6 @@ def my_select(array)
   if (yield(array[i]))
     select << array[i] 
     end 
+    i += 1 
     
  
