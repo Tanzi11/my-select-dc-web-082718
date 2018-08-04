@@ -25,5 +25,6 @@ def my_select(array)
   while i < array.length 
   if (yield(array[i]))
     select << array[i] 
+    end 
     
  
