@@ -27,5 +27,7 @@ def my_select(array)
     select << array[i] 
     end 
     i += 1 
-    
+    end 
+  select 
+  
  
