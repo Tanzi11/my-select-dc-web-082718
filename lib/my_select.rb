@@ -11,5 +11,7 @@ end
   empty_arr.compact 
 end 
 
-
+my_select(nums) do |num| 
+  if num.even?
+    
  
