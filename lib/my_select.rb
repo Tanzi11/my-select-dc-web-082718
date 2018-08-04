@@ -11,3 +11,5 @@ def my_select(collection)
  select
  end
  
+ my_select(nums) do |num| 
+   
