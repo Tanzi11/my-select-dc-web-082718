@@ -3,5 +3,6 @@ def my_select(collection)
   empty_arr = [] 
   
   i=0 
+  while i < collection.length
   
  
