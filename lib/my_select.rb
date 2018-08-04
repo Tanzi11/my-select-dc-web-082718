@@ -8,9 +8,5 @@ def my_select(collection)
  i += 1
  end
  
- 
- 
- 
- 
- 
+ empty_arr.compact  
 end
