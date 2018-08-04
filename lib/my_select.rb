@@ -6,4 +6,6 @@ def my_select(collection)
  if (yield(array[i]))
    select << array[i] 
  end
+ i += 1 
+ end
  
